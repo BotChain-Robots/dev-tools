@@ -1,0 +1,13 @@
+[requires]
+libcontrol/1.0.4
+flatbuffers/24.12.23
+spdlog/1.16.0
+librpc/1.1.9
+ftxui/6.1.9
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout
